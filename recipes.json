@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "name": "Moong dal chilla",
+    "emoji": "🥞",
+    "diet": "vegan",
+    "cost": 25,
+    "calories": 220,
+    "protein": 14,
+    "time": 20,
+    "category": "Breakfast",
+    "ingredients": [
+      "moong dal",
+      "onion",
+      "tomato",
+      "coriander"
+    ],
+    "description": "Protein-rich savoury pancakes with pantry-friendly ingredients."
+  },
+  {
+    "id": 2,
+    "name": "Peanut poha",
+    "emoji": "🍚",
+    "diet": "vegan",
+    "cost": 22,
+    "calories": 310,
+    "protein": 8,
+    "time": 15,
+    "category": "Breakfast",
+    "ingredients": [
+      "poha",
+      "peanuts",
+      "onion",
+      "lemon"
+    ],
+    "description": "A quick, filling breakfast with a little crunch."
+  },
+  {
+    "id": 3,
+    "name": "Rajma rice bowl",
+    "emoji": "🍛",
+    "diet": "vegan",
+    "cost": 42,
+    "calories": 480,
+    "protein": 18,
+    "time": 30,
+    "category": "Lunch",
+    "ingredients": [
+      "rajma",
+      "rice",
+      "tomato",
+      "onion"
+    ],
+    "description": "A comforting classic with fibre and plant protein."
+  },
+  {
+    "id": 4,
+    "name": "Paneer bhurji roti",
+    "emoji": "🫓",
+    "diet": "vegetarian",
+    "cost": 48,
+    "calories": 430,
+    "protein": 25,
+    "time": 20,
+    "category": "Dinner",
+    "ingredients": [
+      "paneer",
+      "roti",
+      "onion",
+      "tomato"
+    ],
+    "description": "A protein-forward meal that is easy to prepare."
+  },
+  {
+    "id": 5,
+    "name": "Chana salad bowl",
+    "emoji": "🥗",
+    "diet": "vegan",
+    "cost": 30,
+    "calories": 290,
+    "protein": 13,
+    "time": 12,
+    "category": "Lunch",
+    "ingredients": [
+      "chickpeas",
+      "cucumber",
+      "tomato",
+      "lemon"
+    ],
+    "description": "No-fuss salad with affordable, filling chickpeas."
+  },
+  {
+    "id": 6,
+    "name": "Egg bhurji with roti",
+    "emoji": "🍳",
+    "diet": "non-vegetarian",
+    "cost": 38,
+    "calories": 390,
+    "protein": 22,
+    "time": 15,
+    "category": "Dinner",
+    "ingredients": [
+      "eggs",
+      "onion",
+      "tomato",
+      "roti"
+    ],
+    "description": "A familiar quick meal with a useful protein boost."
+  },
+  {
+    "id": 7,
+    "name": "Curd rice & cucumber",
+    "emoji": "🥣",
+    "diet": "vegetarian",
+    "cost": 28,
+    "calories": 350,
+    "protein": 11,
+    "time": 10,
+    "category": "Lunch",
+    "ingredients": [
+      "rice",
+      "curd",
+      "cucumber",
+      "curry leaves"
+    ],
+    "description": "Cooling, simple and especially useful on busy days."
+  },
+  {
+    "id": 8,
+    "name": "Soya pulao",
+    "emoji": "🍲",
+    "diet": "vegan",
+    "cost": 35,
+    "calories": 410,
+    "protein": 23,
+    "time": 25,
+    "category": "Dinner",
+    "ingredients": [
+      "soya chunks",
+      "rice",
+      "peas",
+      "spices"
+    ],
+    "description": "Budget-friendly plant protein in a one-pot meal."
+  },
+  {
+    "id": 9,
+    "name": "Banana curd bowl",
+    "emoji": "🍌",
+    "diet": "vegetarian",
+    "cost": 20,
+    "calories": 230,
+    "protein": 9,
+    "time": 5,
+    "category": "Snack",
+    "ingredients": [
+      "banana",
+      "curd",
+      "roasted seeds"
+    ],
+    "description": "A quick snack for the gap between classes."
+  },
+  {
+    "id": 10,
+    "name": "Chicken rice plate",
+    "emoji": "🍗",
+    "diet": "non-vegetarian",
+    "cost": 65,
+    "calories": 520,
+    "protein": 34,
+    "time": 30,
+    "category": "Lunch",
+    "ingredients": [
+      "chicken",
+      "rice",
+      "onion",
+      "seasonal vegetables"
+    ],
+    "description": "A simple higher-protein plate; adjust portions to your needs."
+  }
+]
